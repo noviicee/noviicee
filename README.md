@@ -33,7 +33,6 @@
 ## Connect with me:
 <a href="https://dev.to/noviicee" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="noviicee" height="40" width="40" /></a>
 <a href="https://twitter.com/reachtoana" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="reachtoana" height="40" width="40" /></a>
-<a href="https://www.hackerrank.com/noviicee" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" alt="noviicee" height="40" width="40" /></a>
 <a href="https://www.hackerearth.com/@noviicee" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerearth.svg" alt="@noviicee" height="40" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/noviicee" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/geeksforgeeks.svg" alt="noviicee" height="40" width="40" /></a>
 <a href="https://discord.gg/Anamika(P)" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/discord.svg" alt="Anamika(P)" height="40" width="40" /></a>
