@@ -11,7 +11,9 @@
 <!--
 - 📫 How to reach me: You can connect with me on Instagram, LinkedIn, Twitter, Facebook by @darecoder.
 -->
+<!--
 - 😄 Pronouns: she/her/hers
+-->
 - ⚡ Fun fact: I love learning new technologies & music. XD
 <br/>
 
