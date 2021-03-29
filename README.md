@@ -2,7 +2,7 @@
 </h1>
 <h3 align="center">I am an Open-Source enthusiast. :smiley:</h3>
 
-- :books: I'm in my junior year, pursuing B.Tech in Computer Science and Engineering.
+- :books: I'm a junior, pursuing B.Tech in Computer Science and Engineering.
 <!--
 - 🔭 Currently working on Openshift Cluster Logging & learning Go, Kubernetes & GitOps.
 -->
