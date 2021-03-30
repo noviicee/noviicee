@@ -14,7 +14,7 @@
 <!--
 - 😄 Pronouns: she/her/hers
 -->
-- ⚡ Fun fact: I love learning new technologies & music. XD
+- ⚡ Fun fact: I love learning new technologies & enjoy music. XD
 <br/>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=noviicee&label=Profile%20views&color=0e75b6&style=flat" alt="noviicee" /> </p>
