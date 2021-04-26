@@ -7,14 +7,12 @@
 - 🔭 Currently working on Openshift Cluster Logging & learning Go, Kubernetes & GitOps.
 -->
 - 💬 Ask me about Python, DSA, open-source.
-- :milky_way: Let's connect to build in Python, HTML, CSS, and many many more!!
+- :milky_way: Let's connect to build and contribute!!
 <!--
 - 📫 How to reach me: You can connect with me on Instagram, LinkedIn, Twitter, Facebook by @darecoder.
 -->
-<!--
-- 😄 Pronouns: she/her/hers
--->
 - ⚡ Fun fact: I love learning new technologies & enjoy listening to music. XD
+- 😄 Pronouns: she/her/hers
 <br/>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=noviicee&label=Profile%20views&color=0e75b6&style=flat" alt="noviicee" /> </p>
@@ -30,7 +28,7 @@
 -->
 <br/>
 
-## Read some of my articles:
+## Read some of my articles :blue_book::
 <a href="https://dev.to/noviicee" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="noviicee" height="60" width="60" /></a>
 <!--
 ## Connect with me:
