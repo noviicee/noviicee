@@ -14,7 +14,7 @@
 <!--
 - 😄 Pronouns: she/her/hers
 -->
-- ⚡ Fun fact: I love learning new technologies & enjoy music. XD
+- ⚡ Fun fact: I love learning new technologies & enjoy listening to music. XD
 <br/>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=noviicee&label=Profile%20views&color=0e75b6&style=flat" alt="noviicee" /> </p>
@@ -30,9 +30,14 @@
 -->
 <br/>
 
+## Read some of my articles:
+<a href="https://dev.to/noviicee" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="noviicee" height="60" width="60" /></a>
+<!--
 ## Connect with me:
 <a href="https://dev.to/noviicee" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="noviicee" height="40" width="40" /></a>
 <a href="https://twitter.com/reachtoana" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="reachtoana" height="40" width="40" /></a>
+-->
+
 <!--
 <a href="https://www.hackerearth.com/@noviicee" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerearth.svg" alt="@noviicee" height="40" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/noviicee" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/geeksforgeeks.svg" alt="noviicee" height="40" width="40" /></a>
