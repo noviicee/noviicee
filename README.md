@@ -33,7 +33,7 @@
 <a href="https://anamika-singh-official.medium.com/" target="blank"><img align="center" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT6QFDil7-YFr2PAIdSb4IBnEItDtfcjjGD5g&usqp=CAU" alt="noviicee" height="50" width="50" /> </a>
                                                       
 ## Connect with me:
-<a href="linkedin.com/in/anamika-singh-0fficial/" target="blank"><img align="center" src="https://image.flaticon.com/icons/png/512/174/174857.png" alt="noviicee" height="50" width="50" /></a>
+<a href="https://linkedin.com/in/anamika-singh-0fficial/" target="blank"><img align="center" src="https://image.flaticon.com/icons/png/512/174/174857.png" alt="noviicee" height="50" width="50" /></a>
 
 <!--
 ## Connect with me:
