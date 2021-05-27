@@ -29,7 +29,12 @@
 <br/>
 
 ## Read some of my articles :blue_book::
-<a href="https://dev.to/noviicee" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="noviicee" height="60" width="60" /></a>
+<a href="https://dev.to/noviicee" target="blank"><img align="center" src="https://d2fltix0v2e0sb.cloudfront.net/dev-black.png" alt="noviicee" height="50" width="50" /> </a>
+<a href="https://anamika-singh-official.medium.com/" target="blank"><img align="center" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT6QFDil7-YFr2PAIdSb4IBnEItDtfcjjGD5g&usqp=CAU" alt="noviicee" height="50" width="50" /> </a>
+                                                      
+## Connect with me:
+<a href="linkedin.com/in/anamika-singh-0fficial/" target="blank"><img align="center" src="https://image.flaticon.com/icons/png/512/174/174857.png" alt="noviicee" height="50" width="50" /></a>
+
 <!--
 ## Connect with me:
 <a href="https://dev.to/noviicee" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="noviicee" height="40" width="40" /></a>
@@ -57,7 +62,7 @@
 
 <!--
 ## To know more about me: 
- :point_right:  <a href="https://darecoder.github.io">darecoder.github.io</a>
+ :point_right:  <a href=".github.io">darecoder.github.io</a>
 -->
 <br/>
 
