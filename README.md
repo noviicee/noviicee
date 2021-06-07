@@ -34,10 +34,10 @@
                                                       
 ## Connect with me:
 <a href="https://linkedin.com/in/anamika-singh-0fficial/" target="blank"><img align="center" src="https://image.flaticon.com/icons/png/512/174/174857.png" alt="noviicee" height="50" width="50" /></a>
+<a href="https://twitter.com/reachtoana" target="blank"><img align="center" src="https://www.freepnglogos.com/uploads/twitter-logo-png/twitter-logo-vector-png-clipart-1.png" alt="reachtoana" height="50" width="50" /></a>
 <!--
 ## Connect with me:
 <a href="https://dev.to/noviicee" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="noviicee" height="40" width="40" /></a>
-<a href="https://twitter.com/reachtoana" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="reachtoana" height="40" width="40" /></a>
 -->
 
 <!--
