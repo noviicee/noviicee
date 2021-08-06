@@ -6,7 +6,7 @@
 <!--
 - 🔭 Currently working on Openshift Cluster Logging & learning Go, Kubernetes & GitOps.
 -->
-- 💬 Ask me about Python, DSA, open-source.
+- 💬 Ask me about Python, DSA, Open Source.
 - :milky_way: Let's connect to build and contribute!!
 <!--
 - 📫 How to reach me: You can connect with me on Instagram, LinkedIn, Twitter, Facebook by @darecoder.
