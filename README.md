@@ -9,7 +9,7 @@
 - 💬 Ask me about Python, DSA, Open Source.
 - :milky_way: Let's connect to build and contribute!!
 <!--
-- 📫 How to reach me: You can connect with me on Instagram, LinkedIn, Twitter, Facebook by @darecoder.
+- 📫 How to reach me: You can connect with me on Instagram, LinkedIn, Twitter, Facebook by .
 -->
 - ⚡ Fun fact: I love learning new technologies & enjoy listening to music. XD
 - 😄 Pronouns: she/her/hers
@@ -63,7 +63,7 @@
 
 <!--
 ## To know more about me: 
- :point_right:  <a href=".github.io">darecoder.github.io</a>
+ :point_right:  <a href=".github.io">noviicee.github.io</a>
 -->
 <br/>
 
