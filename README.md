@@ -1,19 +1,12 @@
-<h1 align="center">Hey <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+<h1 align="center">Hello <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 </h1>
-<h3 align="center">I am an Open-Source enthusiast. :smiley:</h3>
+<!--<h3 align="center">I am an Open-Source enthusiast. :smiley:</h3>-->
 
 - :books: I'm a junior, pursuing B.Tech in Computer Science and Engineering.
-<!--
-- 🔭 Currently working on Openshift Cluster Logging & learning Go, Kubernetes & GitOps.
--->
 - 💬 Ask me about Python, DSA, Open Source.
 - :milky_way: Let's connect to build and contribute!!
-<!--
-- 📫 How to reach me: You can connect with me on Instagram, LinkedIn, Twitter, Facebook by .
--->
 - ⚡ Fun fact: I love learning new technologies & enjoy listening to music. XD
 - 😄 Pronouns: she/her/hers
-<br/>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=noviicee&label=Profile%20views&color=0e75b6&style=flat" alt="noviicee" /> </p>
 
@@ -22,11 +15,8 @@
 
 <!--
 ## Work Experience :woman_technologist:
-* Software Engineer intern at [Red Hat](https://www.redhat.com/en)
-* Past Outreachy'20 intern with [OpenRefine](https://openrefine.org/)
-* Co-founder of [Code for Cause](https://www.youtube.com/channel/UCfv8cds8AfIM3UZtAWOz6Gg)
+* 
 -->
-<br/>
 
 ## Read some of my articles :blue_book::
 <a href="https://dev.to/noviicee" target="blank"><img align="center" src="https://d2fltix0v2e0sb.cloudfront.net/dev-black.png" alt="noviicee" height="50" width="50" /> </a>
