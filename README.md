@@ -67,7 +67,7 @@
     <a href="https://rdbms.com" target="_blank"> <img src="https://img.icons8.com/office/80/000000/add-database.png"/ width="45" height="45"> </a> 
     <a href="https://www.git.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/git.png"/> </a> 
     <a style="padding-right:8px;" href="https://ubuntu.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/ubuntu--v1.png"/> </a> 
-    <a style="padding-right:8px;" href="https://www.windows.com/" target="_blank"> <img src="https://img.icons8.com/ios-filled/50/000000/windows-10.png"/> </a>
+    <a style="padding-right:8px;" href="https://www.windows.com/" target="_blank"> <img src="https://img.icons8.com/office/40/000000/windows-10.png"/ width="40" height="40"> </a>
     <a href="https://www.docker.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/docker.png"/> </a> 
     <a href="https://cloud.com/" target="_blank"> <img src="https://img.icons8.com/ios/50/000000/cloud.png"/> </a> 
     </p>
