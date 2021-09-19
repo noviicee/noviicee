@@ -45,8 +45,11 @@
     
     
 ## :blue_book: Read some of my articles :
-<a href="https://dev.to/noviicee"><img src="https://d2fltix0v2e0sb.cloudfront.net/dev-black.png" alt="noviicee" height="40" width="40" /> </a>
-<a href="https://anamika-singh-official.medium.com/"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT6QFDil7-YFr2PAIdSb4IBnEItDtfcjjGD5g&usqp=CAU" alt="noviicee" height="40" width="40" /> </a>
+
+<p align="left"> 
+  <a href="https://dev.to/noviicee"><img src="https://d2fltix0v2e0sb.cloudfront.net/dev-black.png" alt="noviicee" height="40" width="40" /> </a>
+  <a href="https://anamika-singh-official.medium.com/"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT6QFDil7-YFr2PAIdSb4IBnEItDtfcjjGD5g&usqp=CAU" alt="noviicee" height="40" width="40" /> </a>
+</p>
 
 
 ## 📊 My Github Stats
@@ -56,7 +59,6 @@
   <a href="https://github.com/noviicee/github-readme-stats"><img alt=Anamika's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=noviicee&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
   <br/>
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
-<br/>
 <br/>
     
 <!--<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/?username=noviicee&show_icons=true&locale=en&theme=dark" alt="noviicee" /></p>-->
