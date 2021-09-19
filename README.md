@@ -29,18 +29,18 @@
 ## 🚀 Tools and Technologies:
 
 <p align="left"> 
-    <a href=""https://www.python.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/python--v1.png"/> </a>
-    <a href="https://www.github.com" target="_blank"> <img src="https://img.icons8.com/fluency/48/000000/github.png"/> </a> 
-    <a href="https://www.heroku.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/heroku.png"/> </a> 
-    <a href="https://en.wikipedia.org/wiki/SQL" target="_blank"> <img src="https://img.icons8.com/ios/50/000000/sql.png"/> </a> 
+    <a href="https://www.python.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/python--v1.png" alt="Python"> </a>
+    <a href="https://www.github.com" target="_blank"> <img src="https://img.icons8.com/fluency/48/000000/github.png" alt="GitHub"/> </a> 
+    <a href="https://www.heroku.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/heroku.png" alt="Heroku"/> </a> 
+    <a href="https://en.wikipedia.org/wiki/SQL" target="_blank"> <img src="https://img.icons8.com/ios/50/000000/sql.png" alt="SQL"/> </a> 
     <a href="https://www.oracle.com/in/database/what-is-database/" target="_blank"> <img src="https://img.icons8.com/office/80/000000/add-database.png"/ width="45" height="45"> </a> 
     <a href="https://git-scm.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/git.png"/> </a> 
     <a style="padding-right:8px;" href="https://ubuntu.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/ubuntu--v1.png"/> </a> 
-    <a style="padding-right:8px;" href="https://www.microsoft.com/en-in/windows/" target="_blank"> <img src="https://img.icons8.com/office/40/000000/windows-10.png"/ width="40" height="40"> </a>
-    <a href="https://www.docker.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/docker.png"/> </a> 
-    <a href="https://en.wikipedia.org/wiki/Cloud_computing" target="_blank"> <img src="https://img.icons8.com/external-kiranshastry-gradient-kiranshastry/64/000000/external-cloud-multimedia-kiranshastry-gradient-kiranshastry.png"/> </a> 
-    <a href="https://opencv.org/" target="_blank"> <img src="https://img.icons8.com/fluency/48/000000/opencv.png"/> </a>
-    <a href="https://www.linux.org/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/linux.png"/> </a>
+    <a style="padding-right:8px;" href="https://www.microsoft.com/en-in/windows/" target="_blank"> <img src="https://img.icons8.com/office/40/000000/windows-10.png" width="40" height="40"> </a>
+    <a href="https://www.docker.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/docker.png" aly="Docker"/> </a> 
+    <a href="https://en.wikipedia.org/wiki/Cloud_computing" target="_blank"> <img src="https://img.icons8.com/external-kiranshastry-gradient-kiranshastry/64/000000/external-cloud-multimedia-kiranshastry-gradient-kiranshastry.png" alt="Cloud"/> </a> 
+    <a href="https://opencv.org/" target="_blank"> <img src="https://img.icons8.com/fluency/48/000000/opencv.png" alt="OpenCv" /> </a>
+    <a href="https://www.linux.org/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/linux.png" alt="Linux"/> </a>
 </p>
     
     
