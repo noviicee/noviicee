@@ -57,8 +57,36 @@
 -->
 <br/>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/?username=noviicee&show_icons=true&locale=en&theme=dark" alt="noviicee" /></p>
+## 🚀 Languages and Tools:
+
+<p align="left"> 
+    <a href="https://www.python.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/python--v1.png"/> </a>
+    <a href="https://www.github.com" target="_blank"> <img src="https://img.icons8.com/fluency/48/000000/github.png"/> </a> 
+    <a href="https://www.heroku.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/heroku.png"/> </a> 
+    <a href="https://www.sql.com" target="_blank"> <img src="https://img.icons8.com/ios/50/000000/sql.png"/> </a> 
+    <a href="https://rdbms.com" target="_blank"> <img src="https://img.icons8.com/office/80/000000/add-database.png"/ width="45" height="45"> </a> 
+    <a href="https://www.git.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/git.png"/> </a> 
+    <a style="padding-right:8px;" href="https://ubuntu.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/ubuntu--v1.png"/> </a> 
+    <a style="padding-right:8px;" href="https://www.windows.com/" target="_blank"> <img src="https://img.icons8.com/ios-filled/50/000000/windows-10.png"/> </a>
+    <a href="https://www.docker.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/docker.png"/> </a> 
+    <a href="https://cloud.com/" target="_blank"> <img src="https://img.icons8.com/ios/50/000000/cloud.png"/> </a> 
+    </p>
+
+
+<!--<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/?username=noviicee&show_icons=true&locale=en&theme=dark" alt="noviicee" /></p>-->
 <!--
 For a different theme of stats
 <img align="center" src="https://github-readme-stats.vercel.app/api/?username=noviicee&show_icons=true&locale=en&theme=dark" />
 -->
+
+## 📊 My Github Stats
+
+  <br/>
+    <a href="https://github.com/noviicee/github-readme-stats"><img alt="Anamika's Github Stats" src="https://github-readme-stats.vercel.app/api?username=noviicee&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
+  <a href="https://github.com/noviicee/github-readme-stats"><img alt=Anamika's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=noviicee&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
+  <br/>
+  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
+
+
+<br/>
+<br/>
