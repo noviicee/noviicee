@@ -2,7 +2,8 @@
 
 <h1 align="center">Hello <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 </h1>
-<h3 align="center">I am an Open-Source enthusiast. :smiley:</h3>
+<h3 align="center">I am a student, learning many things and doing some open-source. </h3>
+<h3 align="center"> :smiley: </h3>
 
 - :books: A final year student, pursuing B.Tech in Computer Science and Engineering.
 
