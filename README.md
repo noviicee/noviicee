@@ -5,26 +5,43 @@
 <h3 align="center">I am a student, learning many things and doing open-source. </h3>
 <h3 align="center"> :smiley: </h3>
 
-- :books: A final year student, pursuing B.Tech in Computer Science and Engineering.
+## :girl: About Me
 
+- 🎓 A final year student, pursuing my Bachelors in Computer Science and Engineering.
 - 💬 Ask me about Python, DSA, Open Source.
-
-- :milky_way: Let's collaborate to build and contribute!
-
-- ⚡ Fun fact: I love learning new technologies & enjoy listening to music. :notes:
-
+- 👨‍💻 Currently exploring more on Cloud-Native Technologies.
+- :milky_way: Let us collaborate to build and contribute!
+- ⚡ Fun fact: I love learning new things & enjoy listening to music. :notes:
 - 😄 Pronouns: she/her/hers
 
+![anamika-JOInED 2020](https://user-images.githubusercontent.com/72334601/139013031-5310c79b-225a-4137-bb4b-62977c896b16.png)
+
+<!--
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy"><img width="100%" height="auto" align="center" src="https://github-profile-trophy.vercel.app/?username=noviicee&no-bg=true&theme=oldie&title=Joined2020" alt="noviicee" /></a
-</p>
+</p> -->
 <!--<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=noviicee&no-bg=true&theme=oldie&title=Joined2020,Commit,PullRequest,Issues,Repositories,Stars" alt="noviicee" /></a> </p>-->
 
 
-<!--
-## Work Experience :woman_technologist:
-* 
--->
+## My Experiences :woman_technologist:
+
+Project Mentor- [DevIncept](https://devincept.com/) DCP2021
+* Mentored students & Open Source projects involving tekstac such as Web, Heroku, Git in DevIncept DCP 2021
+* Supervised contributions in Open Source projects involving programming as their integral part.
+
+SUSE Scholar- [Udacity](https://www.udacity.com/)
+<!--* [SUSE Cloud Native Foundations Scholar](https://www.udacity.com/scholarships/suse-cloud-native-foundations-scholarship)-->
+* Selected as a Scholar and Challenge Recipient for the Nanodegree Program on Cloud Native.
+* One out of the 15000 scholars selected worldwide.
+* Learnt how to structure, package, and release an application to a Kubernetes cluster, while using an automated CI/CD pipeline.
+* Conducted and been a part of various webinars and student led events to help newcomers in the community and clear their doubts on the tekstak used in the course.
+
+Volunteer-Participant @[GirlScript Summer of Code](https://gssoc.girlscript.tech/)
+* Ranked 83 out of 6500+ participants nation-wide after a 3 month coding period.
+* Developed efficient solutions to complex algorithmic problems in Python.
+* Implemented various automated task scripts in Python.
+* Worked on feature implementation of OpenCV in Python.
+* Implemented various Image-Processing algorithms using OpenCV in Python.
 
 
 ## 🚀 Tools and Technologies:
@@ -45,12 +62,13 @@
 </p>
     
     
-## :blue_book: Read some of my articles :
+## :blue_book: Sometimes, I write
 
 <p align="left"> 
   <a href="https://dev.to/noviicee"><img src="https://d2fltix0v2e0sb.cloudfront.net/dev-black.png" alt="noviicee" height="40" width="40" /> </a>
+  <!--<a href="https://community.codenewbie.org/noviicee/"><img src="https://s3.amazonaws.com/codenewbie-assets/codenewbie+hashtag+logo.png" alt="noviicee" height="40" width="40" /> </a>-->
   <a href="https://anamika-singh-official.medium.com/"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT6QFDil7-YFr2PAIdSb4IBnEItDtfcjjGD5g&usqp=CAU" alt="noviicee" height="40" width="40" /> </a>
-</p>
+ </p>
 
 
 ## 📊 My Github Stats
