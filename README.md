@@ -86,7 +86,7 @@ For a different theme of stats
 <img align="center" src="https://github-readme-stats.vercel.app/api/?username=noviicee&show_icons=true&locale=en&theme=dark" />
 -->
   
-## Connect with me:
+## Connect with me
 
 <p align="left">
 
