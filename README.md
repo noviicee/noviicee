@@ -7,7 +7,7 @@
 
 ## :girl: About Me
 
-- 🎓 A final year student, pursuing my Bachelors in Computer Science and Engineering.
+- 🎓 A final year student, pursuing Bachelors in Computer Science and Engineering.
 - 💬 Ask me about Python, DSA, Open Source.
 - 👨‍💻 Currently exploring more on Cloud-Native Technologies.
 - :milky_way: Let us collaborate to build and contribute!
