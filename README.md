@@ -1,9 +1,13 @@
+![Hello I am a student, learning many things and doing open-source  😃](https://user-images.githubusercontent.com/72334601/143047026-ab2349e8-9c98-43af-855d-139cbf5ee635.gif)
+
+<!--
 <a href="#"><img width="100%" height="auto" src="https://raw.githubusercontent.com/halfrost/halfrost/master/icons/header_.png" height="175px"/></a>
 
 <h1 align="center">Hello <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 </h1>
 <h3 align="center">I am a student, learning many things and doing open-source. </h3>
 <h3 align="center"> :smiley: </h3>
+-->
 
 ## :girl: About Me
 
