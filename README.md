@@ -29,7 +29,7 @@
 
 ## My Experiences :woman_technologist:
 
-Project Mentor- [DevIncept](https://devincept.com/) DCP2021
+Project Mentor- [DevIncept](https://www.devincept.com/) DCP2021
 * Mentored students & Open Source projects involving tekstac such as Web, Heroku, Git in DevIncept DCP 2021
 * Supervised contributions in Open Source projects involving programming as their integral part.
 
