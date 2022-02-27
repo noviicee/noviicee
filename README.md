@@ -63,6 +63,7 @@ Volunteer-Participant @[GirlScript Summer of Code](https://gssoc.girlscript.tech
     <a href="https://en.wikipedia.org/wiki/Cloud_computing" target="_blank"> <img src="https://img.icons8.com/external-kiranshastry-gradient-kiranshastry/64/000000/external-cloud-multimedia-kiranshastry-gradient-kiranshastry.png" alt="Cloud"/> </a> 
     <a href="https://opencv.org/" target="_blank"> <img src="https://img.icons8.com/fluency/48/000000/opencv.png" alt="OpenCv" /> </a>
     <a href="https://www.linux.org/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/linux.png" alt="Linux"/> </a>
+    <!--<a href="https://yaml.org/spec/1.2.2/" target="_blank"> <img src="https://cdn2.vectorstock.com/i/1000x1000/18/66/yaml-file-document-icon-vector-24671866.jpg" width="45" height="45" alt="YAML"/> </a>-->
 </p>
     
     
