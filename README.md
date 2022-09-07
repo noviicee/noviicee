@@ -11,10 +11,10 @@
 
 ## :girl: About Me
 
-- 🎓 A final year student, pursuing Bachelors in Computer Science and Engineering.
-- 💬 Ask me about Python, DSA, Open Source.
+- 🎓 A Computer Science undergrad.
+- 💬 Interested in Development and Open Source.
 - 👨‍💻 Currently exploring more on Cloud-Native Technologies.
-- :milky_way: Let us collaborate to build and contribute!
+- :milky_way: Let us collaborate to build and contribute! :handshake:
 - ⚡ Fun fact: I love learning new things & enjoy listening to music. :notes:
 - 😄 Pronouns: she/her/hers
 
