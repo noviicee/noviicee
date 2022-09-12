@@ -9,14 +9,14 @@
 <h3 align="center"> :smiley: </h3>
 -->
 
-## :girl: About Me
+## :zap: About Me
 
 - 🎓 A Computer Science undergrad.
 - 💬 Interested in Development and Open Source.
 - 👨‍💻 Currently exploring more on Cloud-Native Technologies.
 - :milky_way: Let us collaborate to build and contribute! :handshake:
-- ⚡ Fun fact: I love learning new things & enjoy listening to music. :notes:
-- 😄 Pronouns: she/her/hers
+- 😄 Fun fact: I love learning new things & enjoy listening to music. :notes:
+- :girl: Pronouns: she/her/hers
 
 ![anamika-JOInED 2020](https://user-images.githubusercontent.com/72334601/139013031-5310c79b-225a-4137-bb4b-62977c896b16.png)
 
@@ -28,6 +28,8 @@
 
 
 ## My Experiences :woman_technologist:
+
+<!-- LiFT- Open Source Newbie Scholar-->
 
 Project Mentor- [DevIncept](https://www.devincept.com/) DCP2021
 * Mentored students & Open Source projects involving tekstac such as Web, Heroku, Git in DevIncept DCP 2021
