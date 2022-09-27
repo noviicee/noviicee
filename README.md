@@ -1,7 +1,13 @@
+<!--
 ![Hello I am a student, learning many things and doing open-source  😃](https://user-images.githubusercontent.com/72334601/143047026-ab2349e8-9c98-43af-855d-139cbf5ee635.gif)
+-->
+
+<div align="center">
+<img src="https://user-images.githubusercontent.com/72334601/192448735-b41f7b68-0755-42a6-a9be-583bfd29274c.gif" width=500 />
+</div>
 
 <!--
-<a href="#"><img width="100%" height="auto" src="https://raw.githubusercontent.com/halfrost/halfrost/master/icons/header_.png" height="175px"/></a>
+<a href="#"><img width="100%" height="auto" align="center" src="https://raw.githubusercontent.com/halfrost/halfrost/master/icons/header_.png" height="175px"/></a>
 
 <h1 align="center">Hello <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 </h1>
@@ -9,9 +15,12 @@
 <h3 align="center"> :smiley: </h3>
 -->
 
+<h1 align="center">Hello <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> </h1>
+<!-- <h3 align="center">I am a student, learning many things and doing open-source. </h3> -->
+
 ## :zap: About Me
 
-- 🎓 A Computer Science undergrad.
+- 🎓 I am a Computer Science undergrad.
 - 💬 Interested in Development and Open Source.
 - 👨‍💻 Currently exploring more on Cloud-Native Technologies.
 - :milky_way: Let us collaborate to build and contribute! :handshake:
