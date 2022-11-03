@@ -20,14 +20,21 @@
 
 ## :zap: About Me
 
-- 🎓 I am a Computer Science undergrad.
+<!-- - 🎓 I am a Computer Science undergrad.-->
+- 👩‍💼 An Upcoming SWE.
 - 💬 Interested in Development and Open Source.
 - 👨‍💻 Currently exploring more on Cloud-Native Technologies.
 - :milky_way: Let us collaborate to build and contribute! :handshake:
 - 😄 Fun fact: I love learning new things & enjoy listening to music. :notes:
 - :girl: Pronouns: she/her/hers
 
-![anamika-JOInED 2020](https://user-images.githubusercontent.com/72334601/139013031-5310c79b-225a-4137-bb4b-62977c896b16.png)
+<!--
+![anamika-join-2020](https://user-images.githubusercontent.com/72334601/139013031-5310c79b-225a-4137-bb4b-62977c896b16.png)
+-->
+
+<div align="center">
+<img src= "https://media.giphy.com/media/BW51OCstarPBm/giphy.gif" width=1000 height=150 />
+</div>
 
 <!--
 <p align="center">
@@ -46,8 +53,7 @@ Project Mentor- [DevIncept](https://www.devincept.com/) DCP2021
 
 SUSE Scholar- [Udacity](https://www.udacity.com/)
 <!--* [SUSE Cloud Native Foundations Scholar](https://www.udacity.com/scholarships/suse-cloud-native-foundations-scholarship)-->
-* Selected as a Scholar and Challenge Recipient for the Nanodegree Program on Cloud Native.
-* One out of the 15000 scholars selected worldwide.
+* Selected 1 out of the 15000 scholars worldwide as a Challenge Recipient for the Nanodegree Program on Cloud Native.
 * Learnt how to structure, package, and release an application to a Kubernetes cluster, while using an automated CI/CD pipeline.
 * Conducted and been a part of various webinars and student led events to help newcomers in the community and clear their doubts on the tekstak used in the course.
 
@@ -55,9 +61,7 @@ Volunteer-Participant @[GirlScript Summer of Code](https://gssoc.girlscript.tech
 * Ranked 83 out of 6500+ participants nation-wide after a 3 month coding period.
 * Developed efficient solutions to complex algorithmic problems in Python.
 * Implemented various automated task scripts in Python.
-* Worked on feature implementation of OpenCV in Python.
-* Implemented various Image-Processing algorithms using OpenCV in Python.
-
+* Worked on feature implementation and various Image-Processing algorithms using OpenCV in Python.
 
 ## 🚀 Tools and Technologies:
 
