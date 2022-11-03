@@ -33,7 +33,7 @@
 -->
 
 <div align="center">
-<img src= "https://media.giphy.com/media/BW51OCstarPBm/giphy.gif" width=1000 height=150 />
+<img src= "https://media.giphy.com/media/BW51OCstarPBm/giphy.gif" width=1000 height=250 />
 </div>
 
 <!--
