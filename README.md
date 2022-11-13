@@ -114,7 +114,7 @@ For a different theme of stats
 
 <p align="left">
 
-<a href = "https://linkedin.com/in/anamika-singh-0fficial/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
+<!-- <a href = "https://linkedin.com/in/anamika-singh-0fficial/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a> -->
 <a href = "https://twitter.com/reachtoana"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
 <a href = "https://discord.gg/Anamika(P)"><img src="https://img.icons8.com/color/48/000000/discord-logo.png"/></a>
 <!--
