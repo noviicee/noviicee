@@ -26,7 +26,7 @@
 - 👨‍💻 Currently exploring more on Cloud-Native Technologies.
 - :milky_way: Let us collaborate to build and contribute! :handshake:
 - 😄 Fun fact: I love learning new things & enjoy listening to music. :notes:
-- :girl: Pronouns: she/her/hers
+<!-- - :girl: Pronouns: she/her/hers -->
 
 <!--
 ![anamika-join-2020](https://user-images.githubusercontent.com/72334601/139013031-5310c79b-225a-4137-bb4b-62977c896b16.png)
