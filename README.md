@@ -21,8 +21,7 @@
 ## :zap: About Me
 
 <!-- - 🎓 I am a Computer Science undergrad.-->
-- 👩‍💼 Upcoming SWE.
-- 💬 Interested in Development and Open Source.
+- 👩‍💼 Software Engineer interested in Development and Open Source.
 - 👨‍💻 Currently exploring more on Cloud-Native Technologies.
 - :milky_way: Let us collaborate to build and contribute! :handshake:
 - 😄 Fun fact: I love learning new things & enjoy listening to music. :notes:
