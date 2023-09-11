@@ -20,38 +20,49 @@
 
 ## :zap: About Me
 
+<!-- Previously... -->
 <!-- - 🎓 I am a Computer Science undergrad.-->
+<!--
 - 👩‍💼 Software Engineer interested in Development and Open Source.
 - 👨‍💻 Currently exploring more on Cloud-Native Technologies.
 - :milky_way: Let us collaborate to build and contribute! :handshake:
 - 😄 Fun fact: I love learning new things & enjoy listening to music. :notes:
+-->
 <!-- - :girl: Pronouns: she/her/hers -->
+
+<!-- new -->
+- Software Engineer. 👩‍💻
+- Let's collaborate to build and contribute! :handshake:
 
 <!--
 ![anamika-join-2020](https://user-images.githubusercontent.com/72334601/139013031-5310c79b-225a-4137-bb4b-62977c896b16.png)
 -->
 
+<!--
 <div align="center">
 <img src= "https://media.giphy.com/media/BW51OCstarPBm/giphy.gif" width=1000 height=250 />
 </div>
 
-<!--
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy"><img width="100%" height="auto" align="center" src="https://github-profile-trophy.vercel.app/?username=noviicee&no-bg=true&theme=oldie&title=Joined2020" alt="noviicee" /></a
 </p> -->
 <!--<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=noviicee&no-bg=true&theme=oldie&title=Joined2020,Commit,PullRequest,Issues,Repositories,Stars" alt="noviicee" /></a> </p>-->
 
 
+<!-- 
 ## My Experiences :woman_technologist:
 
 <!-- LiFT- Open Source Newbie Scholar-->
 
+<!--
 Project Mentor- [DevIncept](https://www.devincept.com/) DCP2021
 * Mentored students & Open Source projects involving tekstac such as Web, Heroku, Git in DevIncept DCP 2021
-* Supervised contributions in Open Source projects involving programming as their integral part.
+* Supervised contributions in Open Source projects involving programming as their integral part
 
 SUSE Scholar- [Udacity](https://www.udacity.com/)
 <!--* [SUSE Cloud Native Foundations Scholar](https://www.udacity.com/scholarships/suse-cloud-native-foundations-scholarship)-->
+
+<!--
 * Selected 1 out of the 15000 scholars worldwide as a Challenge Recipient for the Nanodegree Program on Cloud Native.
 * Learnt how to structure, package, and release an application to a Kubernetes cluster, while using an automated CI/CD pipeline.
 * Conducted and been a part of various webinars and student led events to help newcomers in the community and clear their doubts on the tekstak used in the course.
@@ -60,8 +71,9 @@ Volunteer-Participant @[GirlScript Summer of Code](https://gssoc.girlscript.tech
 * Ranked 83 out of 6500+ participants nation-wide after a 3 month coding period.
 * Developed efficient solutions to complex algorithmic problems in Python.
 * Implemented various automated task scripts in Python.
-* Worked on feature implementation and various Image-Processing algorithms using OpenCV in Python.
+* Worked on feature implementation and various Image-Processing algorithms using OpenCV in Python. -->
 
+<!--
 ## 🚀 Tools and Technologies:
 
 <p align="left"> 
@@ -78,16 +90,17 @@ Volunteer-Participant @[GirlScript Summer of Code](https://gssoc.girlscript.tech
     <a href="https://opencv.org/" target="_blank"> <img src="https://img.icons8.com/fluency/48/000000/opencv.png" alt="OpenCv" /> </a>
     <a href="https://www.linux.org/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/linux.png" alt="Linux"/> </a>
     <!--<a href="https://yaml.org/spec/1.2.2/" target="_blank"> <img src="https://cdn2.vectorstock.com/i/1000x1000/18/66/yaml-file-document-icon-vector-24671866.jpg" width="45" height="45" alt="YAML"/> </a>-->
-</p>
+<!-- </p> -->
     
-    
+<!--    
 ## :blue_book: Sometimes, I write
 
 <p align="left"> 
   <a href="https://dev.to/noviicee"><img src="https://d2fltix0v2e0sb.cloudfront.net/dev-black.png" alt="noviicee" height="40" width="40" /> </a>
   <!--<a href="https://community.codenewbie.org/noviicee/"><img src="https://s3.amazonaws.com/codenewbie-assets/codenewbie+hashtag+logo.png" alt="noviicee" height="40" width="40" /> </a>-->
+  <!--
   <a href="https://anamika-singh-official.medium.com/"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT6QFDil7-YFr2PAIdSb4IBnEItDtfcjjGD5g&usqp=CAU" alt="noviicee" height="40" width="40" /> </a>
- </p>
+ </p>-->
 
 
 ## 📊 My Github Stats
